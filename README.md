@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Software Engineering
 - 📫 How to reach me: longkhery@gmail.com
 - 😄 Pronouns: Mr
-- ⚡ Fun fact: Electronics is the an exploited god
+- ⚡ Fun fact: Electronics is the an un-exploited god
 
