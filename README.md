@@ -1,16 +1,4 @@
 ### Hi there 👋
 
-<!--
-**henrykorir/henrykorir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on #Turn Based Board Game
-- 🌱 I’m currently learning Front End Developer at openclassrooms.com
-- 👯 I’m looking to collaborate on any project that has stipends or per diem
-- 🤔 I’m looking for help with getting gigs
-- 💬 Ask me about Software Engineering
-- 📫 How to reach me: longkhery@gmail.com
-- 😄 Pronouns: Mr
-- ⚡ Fun fact: Electronics is the an un-exploited god
--->
-
+![Henry Korir's stats](https://github-readme-stats.vercel.app/api?username=henrykorir&show_icons=true&theme=dark)
+![Henry Korir's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrykorir&theme=dark&layout=compact) 
