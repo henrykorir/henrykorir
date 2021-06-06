@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhenrykorir&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jhnam88)](https://www.linkedin.com/in/henrykorir)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=samchon&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=henrykorir&show_icons=true)
 
 <!-- https://simpleicons.org -->
 
