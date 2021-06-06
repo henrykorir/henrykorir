@@ -1,16 +1,80 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhenrykorir&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jhnam88)](https://www.linkedin.com/in/henrykorir)
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=henrykorir&show_icons=true)
+<h1 align="center"> नमस्ते (Namaste), I'm henrykorir Mohanty <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-<!-- https://simpleicons.org -->
+<h3 align="center">I'm a Software and Web Developer from India ❤</h3>
+  
+A Software Engineer🌈 and Web developer🎯 . Passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
 
-![Architect](https://img.shields.io/badge/-Architect-3955a3?style=for-the-badge&logo=microsoft%20visio&logoColor=fff)
-![C++](https://img.shields.io/badge/-C++-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
-<!-- ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=fff) -->
-<!--
-I've studied programming for 22 years since 1998. For the long time, I've developed many programs and also have enjoyed lots of chances that can enhance my abilities dramatically. Therefore, I say with confident, "I am one of the best programmers in my home country, the South Korea."
 
-In nowadays, I develop open source projects. Working in a company, if I feel a new feature is required or find some ordinary feature is not enough, then I develop an open source component in my leisure time. When such leisure developments are accumulated and they're following a paradigm or pattern, they would be re-generated to a new open source project, as you can see from the below.
--->
+![age](https://img.shields.io/badge/age-21-blue)
+![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
+![living](https://img.shields.io/badge/living-Bhubaneswar-3c9)
+
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🌱 I’m currently learning NodeJs, Python and ReactJs
+- 👯 I’m looking to collaborate on Python projects and Basic Web Dev stuff
+- 📫 How to reach me: You may follow me on [Twitter](https://www.twitter.com/k04ir) 
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: Jack of all trades , Master of None ! 
+<br />
+
+
+## 👨‍💻 Languages and Tools
+
+<div align="center">
+  
+<img src="https://github.com/henrykorir/henrykorir/blob/master/logos/c++.png?raw=true" height="60" width="60">
+<img src="https://github.com/henrykorir/henrykorir/blob/master/logos/python.png?raw=true" height="60" width="60">
+<img src="https://github.com/henrykorir/henrykorir/blob/master/logos/JS.png?raw=true" height="60" width="60">
+<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
+<img src="https://github.com/henrykorir/henrykorir/blob/master/logos/next.png?raw=true" height="60" width="60">
+<img src="https://github.com/henrykorir/henrykorir/blob/master/logos/css.png?raw=true" height="60" width="60">
+<img src="https://github.com/henrykorir/henrykorir/blob/master/logos/html.png?raw=true" height="60" width="60">
+<img src="https://github.com/henrykorir/henrykorir/blob/master/logos/django.jpg?raw=true" height="60" width="60">
+<img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
+
+<br>
+
+<img src="https://github.com/henrykorir/henrykorir/blob/master/logos/react.png?raw=true" height="60" width="60">
+<img src="https://github.com/henrykorir/henrykorir/blob/master/logos/php.png?raw=true" height="60" width="60">
+<img src="https://github.com/henrykorir/henrykorir/blob/master/logos/sql.png?raw=true" height="60" width="60">
+<img src="https://github.com/henrykorir/henrykorir/blob/master/logos/postgres.png?raw=true" height="60" width="60">
+<img src="https://github.com/henrykorir/henrykorir/blob/master/logos/git.png?raw=true" height="60" width="60">
+<img src="https://github.com/henrykorir/henrykorir/blob/master/logos/vs.png?raw=true" height="60" width="60">
+<img src="https://github.com/henrykorir/henrykorir/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
+<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
+<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
+
+</div>
+
+<br >
+
+## 🏆 Github Status
+
+<img  src="https://github-readme-stats.vercel.app/api?username=henrykorir&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=henrykorir&theme=dark" width="45%" >
+
+<br>
+
+<div align="center">
+
+
+### Show some ❤️ by starring ⭐ some of the repositories!
+
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/henrykorir-mohanty-534b9b1a9/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_the.odist_/?hl=en)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/henrykorir.mohanty/)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://henrykorir-mohanty-6cdeb.web.app/)
+
+
+<a href="https://dev.to/henrykorir"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
+
+</div>
+
+
+
+
