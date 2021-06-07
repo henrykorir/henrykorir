@@ -1,6 +1,6 @@
 <h1 align="center"> Mambo vipi? (Hello)  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-
-<h3 align="center">I'm a Software and Web Developer ❤</h3>
+<h1 align='center'> Looking for work </h1>
+<h3 align="center">I'm a Software and Web Developer ❤ Seriously looking for work</h3>
   
 A Software Engineer and Web developer🎯 . Passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
 
@@ -22,7 +22,7 @@ A Software Engineer and Web developer🎯 . Passionate about Full-Stack Web Deve
 ## 👨‍💻 Languages and Tools
 
 <div align="center">
-  
+<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 <img src="https://github.com/henrykorir/henrykorir/blob/master/logos/c++.png?raw=true" height="60" width="60">
 <img src="https://github.com/henrykorir/henrykorir/blob/master/logos/python.png?raw=true" height="60" width="60">
 <img src="https://github.com/henrykorir/henrykorir/blob/master/logos/JS.png?raw=true" height="60" width="60">
