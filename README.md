@@ -24,25 +24,9 @@ A Software Engineer and Web developer🎯 . Passionate about Full-Stack Web Deve
 <div align="center">
 <img src="https://img.icons8.com/color/48/000000/c-programming.png?raw=true" height="60" width="60""/>
 <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png?raw=true" height="60" width="60""/>
-<img src="https://github.com/henrykorir/henrykorir/blob/master/logos/c++.png?raw=true" height="60" width="60">
-<img src="https://github.com/henrykorir/henrykorir/blob/master/logos/python.png?raw=true" height="60" width="60">
-<img src="https://github.com/henrykorir/henrykorir/blob/master/logos/JS.png?raw=true" height="60" width="60">
-<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
-<img src="https://github.com/henrykorir/henrykorir/blob/master/logos/next.png?raw=true" height="60" width="60">
-<img src="https://github.com/henrykorir/henrykorir/blob/master/logos/css.png?raw=true" height="60" width="60">
-<img src="https://github.com/henrykorir/henrykorir/blob/master/logos/html.png?raw=true" height="60" width="60">
-<img src="https://github.com/henrykorir/henrykorir/blob/master/logos/django.jpg?raw=true" height="60" width="60">
 <img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
 
 <br>
-
-<img src="https://github.com/henrykorir/henrykorir/blob/master/logos/react.png?raw=true" height="60" width="60">
-<img src="https://github.com/henrykorir/henrykorir/blob/master/logos/php.png?raw=true" height="60" width="60">
-<img src="https://github.com/henrykorir/henrykorir/blob/master/logos/sql.png?raw=true" height="60" width="60">
-<img src="https://github.com/henrykorir/henrykorir/blob/master/logos/postgres.png?raw=true" height="60" width="60">
-<img src="https://github.com/henrykorir/henrykorir/blob/master/logos/git.png?raw=true" height="60" width="60">
-<img src="https://github.com/henrykorir/henrykorir/blob/master/logos/vs.png?raw=true" height="60" width="60">
-<img src="https://github.com/henrykorir/henrykorir/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
 <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
 <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
 
