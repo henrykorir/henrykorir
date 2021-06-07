@@ -22,13 +22,18 @@ A Software Engineer and Web developer🎯 . Passionate about Full-Stack Web Deve
 ## 👨‍💻 Languages and Tools
 
 <div align="center">
-<img src="https://img.icons8.com/color/48/000000/c-programming.png?raw=true" height="60" width="60""/>
-<img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png?raw=true" height="60" width="60""/>
-<img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
+<img  height="60" width="60" src="https://img.icons8.com/color/48/000000/c-programming.png?raw=true"/>
+<img  height="60" width="60" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png?raw=true"/>
+<img  height="60" width="60" src="https://img.icons8.com/color/48/000000/css3.png?raw=true "/>
+<img  height="60" width="60" src="https://img.icons8.com/color/48/000000/html-5--v1.png?raw=true"/>
+<img  height="60" width="60" src="https://img.icons8.com/color/452/mongodb.png">
 
 <br>
+<img height="60" width="60" src="https://img.icons8.com/color/48/000000/react-native.png"/>
 <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
 <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
+<img height="60" width="60" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+<img height="60" width="60" src="https://img.icons8.com/color/48/000000/sql.png"/>
 
 </div>
 
