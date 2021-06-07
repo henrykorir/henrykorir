@@ -22,8 +22,8 @@ A Software Engineer and Web developer🎯 . Passionate about Full-Stack Web Deve
 ## 👨‍💻 Languages and Tools
 
 <div align="center">
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-programming.png?raw=true" height="60" width="60""/>
+<img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png?raw=true" height="60" width="60""/>
 <img src="https://github.com/henrykorir/henrykorir/blob/master/logos/c++.png?raw=true" height="60" width="60">
 <img src="https://github.com/henrykorir/henrykorir/blob/master/logos/python.png?raw=true" height="60" width="60">
 <img src="https://github.com/henrykorir/henrykorir/blob/master/logos/JS.png?raw=true" height="60" width="60">
