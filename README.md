@@ -1,7 +1,7 @@
 <h1 align="center"> Mambo vipi? (Hello)  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <h3 align="center">I'm a Software Engineer ❤ </h3>
   
-A Software Engineer and Web developer🎯 . Passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+A Software Engineer and Web developer🎯 . Passionate about Full-Stack Development.:bar_chart:. I like automating things, building pipelines, sharing, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhenrykorir)](https://hits.seeyoufarm.com)
 ![age](https://img.shields.io/badge/age-none-blue)
