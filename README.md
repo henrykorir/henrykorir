@@ -10,7 +10,7 @@ A Software Engineer and Web developer🎯 . Passionate about Full-Stack Developm
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently developing solutions with <a href="[https://github.com/supabase](https://github.com/openmrs)">OpenMRS</a>
+- 🌱 I’m currently developing solutions with <a href="[https://github.com/supabase](https://github.com/openmrs)">OpenMRS</a> under AMPATH Kenya
 - 👯 I’m looking to collaborate on opensource solutions
 - 📫 How to reach me: You may follow me on [Twitter](https://www.twitter.com/k04ir) 
 - ⚡ Fun fact: tech stack doesn't matter, solutions does !
