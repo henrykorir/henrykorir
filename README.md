@@ -13,8 +13,8 @@ A Software Engineer and Web developer🎯 . Passionate about Full-Stack Developm
 - 🌱 I’m currently developing solutions with <a href="[https://github.com/supabase](https://github.com/openmrs)">OpenMRS</a>
 - 👯 I’m looking to collaborate on opensource solutions
 - 📫 How to reach me: You may follow me on [Twitter](https://www.twitter.com/k04ir) 
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: tech stack doesn't matter, solutions does ! 
+- ⚡ Fun fact: tech stack doesn't matter, solutions does !
+- contact: longkhery@gmail.com
 <br />
 
 
