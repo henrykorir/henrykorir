@@ -49,7 +49,7 @@ A Software Engineer and Web developer🎯 . Passionate about Full-Stack Developm
 <br>
 
 <div align="center">
-
+[![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrykorir)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Show some ❤️ by starring ⭐ some of the repositories!
 
