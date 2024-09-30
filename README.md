@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Henry Korir</h1>
 <h3 align="center">A Passionate Software Developer</h3>
+A Software Engineer and Web developer🎯 . Passionate about Full-Stack Development.:bar_chart:. I like automating things, building pipelines, sharing, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhenrykorir)](https://hits.seeyoufarm.com)
+![age](https://img.shields.io/badge/age-none-blue)
+![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
+![living](https://img.shields.io/badge/living-p2p-3c9)
+
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henrykorir" alt="henrykorir" /></a> </p>
 
